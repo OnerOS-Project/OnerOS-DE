@@ -85,7 +85,7 @@ The OnerOS Web Preview is a browser-based prototype that helps explore the proje
 
 It serves as a visual reference for native development; it is not the native desktop environment itself.
 
-➡️ **Explore OnerOS Web Preview**(https://github.com/OnerOS-Project/Web-Preview)
+➡️ [**Explore OnerOS Web Preview**](https://github.com/OnerOS-Project/Web-Preview)
 
 ## 🤝 Contributing
 
@@ -99,7 +99,7 @@ Useful contributions include interface design, architecture, development, testin
 
 OnerOS DE is part of the wider OnerOS project, which aims to build a cohesive operating system experience.
 
-➡️ **OnerOS on GitHub**(https://github.com/OnerOS-Project/OnerOS)
+➡️ [**OnerOS on GitHub**](https://github.com/OnerOS-Project/OnerOS)
 
 ---
 
